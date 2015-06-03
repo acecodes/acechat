@@ -10,6 +10,7 @@
   "dependencies": {
     "express": "^4.10.2",
     "hotnode": "0.0.8",
+    "jquery": "^2.1.4",
     "socket.io": "^1.3.5"
   }
 }
